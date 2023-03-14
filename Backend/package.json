@@ -1,0 +1,18 @@
+{
+  "name": "restapinode",
+  "version": "1.0.0",
+  "description": "Creando REST APIS",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "author": "Cristian Angel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
